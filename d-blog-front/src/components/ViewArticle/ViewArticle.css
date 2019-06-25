@@ -1,0 +1,39 @@
+.view-article-container div p img{
+    width: 100% !important;
+}
+
+.display-date-by{
+    font-size: 12px;
+    font-style: italic;
+}
+
+.article-image-profile{
+    width: 50px;
+    border-radius: 40px;
+}
+
+.article-image-container{
+    display: inline-flex;
+}
+
+.author-customdate-container{
+    margin-left: 10px;
+}
+
+.author-p{
+    margin-bottom: 6px;
+    color: rgba(0,0,0,.7);
+}
+
+.customdate-p{
+    color: rgba(0,0,0,.5);
+    font-size: 14px;
+}
+
+.article-name-container{
+    margin-bottom: 30px;
+}
+
+.view-article-content{
+    width: 96%;
+}

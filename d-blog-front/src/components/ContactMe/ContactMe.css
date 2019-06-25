@@ -1,0 +1,31 @@
+.contact-me-header{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.contact-form-line{
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+input.contact-form-line{
+    border-radius: 4px;
+    border: 1px solid rgba(0,0,0,.2);
+    height: 40px;
+    padding-left: 7px;
+}
+
+.contact-message{
+    padding: 7px 0 0 7px;
+    height: 172px;
+    border: 1px solid rgba(0,0,0,.2);
+    resize: none;
+}
+
+.submit-message{
+    background-color: #1aca79;
+    border-radius: 4px;
+    border: 1px solid rgba(0,0,0,.2);
+    padding: 2px 8px 2px 8px;
+    color: #FFF;
+}

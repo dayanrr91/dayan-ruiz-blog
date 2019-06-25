@@ -1,0 +1,29 @@
+.search-article-container{
+    margin-bottom: 40px;
+    padding-top: 5px;
+}
+
+.search-article-input{
+    border: 1px solid rgba(0,0,0,1);
+    padding: 5px 5px 5px 10px;
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+}
+
+.search-material-icon{
+    font-size: 35px;
+    position: relative;
+    bottom: 40px;
+    right: 5px;
+}
+
+.search-container-icon{
+    width: 100%;
+    text-align: right;
+    
+}
+
+.search-container-input{
+    width: 100%;
+}

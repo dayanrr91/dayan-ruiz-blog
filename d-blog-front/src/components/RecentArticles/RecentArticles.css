@@ -1,0 +1,32 @@
+.article-posted-container{
+    width: 100%;    
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    padding: 8px 0 8px 0;
+    list-style: none;
+}
+
+.recently-posted-header{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.all-recent-articles-container{
+    width: 100%
+}
+
+.recent-articles-ul{
+    padding-left: 0px;
+}
+
+.article-posted-container span {
+    position: relative;
+    left: 2px;
+}
+
+.article-key-0{
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+
+.recent-articles-container{
+    margin-bottom: 60px;
+}

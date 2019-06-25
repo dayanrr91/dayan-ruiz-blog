@@ -1,0 +1,25 @@
+.tag-element{
+    background-color: #FFF;
+    margin-right: 15px;
+    color: #000;
+    padding: 4px 12px 4px 12px;
+    width: fit-content;
+    height: fit-content;
+    float: left;
+    margin-bottom: 15px;
+    border-radius: 2px;
+    border: 1px solid rgba(0,0,0,.1);
+}
+
+.tags{
+    /* background-color: #FFF; */
+}
+
+.tag-element:hover{
+    cursor: pointer;
+}
+
+.tags-header{
+    font-weight: bold;
+    text-transform: uppercase;
+}

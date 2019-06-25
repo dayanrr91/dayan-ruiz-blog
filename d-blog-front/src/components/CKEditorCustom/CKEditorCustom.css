@@ -1,0 +1,9 @@
+.ckeditor-container{
+    width: 100%;
+    min-height: 400px;
+}
+
+.ckeditor-container img{
+    width: 150px;
+}
+

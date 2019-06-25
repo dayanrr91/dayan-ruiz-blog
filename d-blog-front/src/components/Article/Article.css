@@ -1,0 +1,39 @@
+.article-image-container{
+    margin-bottom: 15px;
+}
+
+.article-image{
+    width: 100%;
+    /* border-radius: 4px; */
+}
+
+.article-container{
+    margin-top: 5px;
+}
+
+.custom-date{
+    font-size: 15px;
+    color: rgba(0,0,0,.7);    
+}
+
+.custom-date-author-container{
+    margin-bottom: 20px;
+}
+
+.font-size-14{
+    font-size: 14px;
+}
+
+.article-author-line{
+    margin-bottom: 1px;
+    color: rgba(0,0,0,.8);
+}
+
+.custom-date{
+    color: rgba(0,0,0,.5);
+}
+
+.subheader-line{
+    color: rgba(0,0,0,.5);
+}
+

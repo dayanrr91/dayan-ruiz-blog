@@ -1,0 +1,22 @@
+:root{
+  --white: #FFF;
+  --main-blue: #133584;
+  --gray-back: #f1f1f1;
+  --white-back: rgb(250, 250, 250);
+}
+
+body{
+  background-color: var(--white-back);
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+.color-black-transparent{
+  color: rgba(0,0,0,.7);
+}
+
+.hover-magic:hover{
+  cursor: pointer;
+  color: rgb(104, 88, 88);
+}

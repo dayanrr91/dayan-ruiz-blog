@@ -1,0 +1,12 @@
+.about-me-header-container{
+    width: 96%;
+}
+
+.uppercase-header{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.who-i-am-element{
+    list-style: none;
+}

@@ -1,0 +1,33 @@
+.user-menu{
+    border-radius: 40px;
+    width: 20px;
+}
+
+.site-bar{
+    margin-top: 20px;
+    margin-bottom: -10px;
+    height: 165px;
+    margin-right: 0;
+}
+
+.my-name{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.my-degree{
+    font-size: 22px;
+    color: rgba(0,0,0,.7);
+    font-style: italic;
+}
+
+.my-degree-container{
+    position: relative;
+    bottom: 20px;
+}
+
+.banner-web-site{
+    padding-top: 25px;
+    position: relative;
+    padding-left: 35px;
+}
